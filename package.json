@@ -26,7 +26,8 @@
   "homepage": "https://github.com/kyeotic/tslint-config#readme",
   "dependencies": {
     "tslint-config": "0.0.1",
-    "tslint-config-prettier": "^1.18.0"
+    "tslint-config-prettier": "^1.18.0",
+    "tslint-microsoft-contrib": "^6.2.0"
   },
   "devDependencies": {
     "prettier": "^1.17.1"
