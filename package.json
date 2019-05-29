@@ -2,7 +2,7 @@
   "name": "@kyeotic/tslint-config",
   "version": "1.0.3",
   "description": "Kyeotic's personal tslint config",
-  "main": "index.json",
+  "main": "tslint.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -27,6 +27,7 @@
   "dependencies": {
     "tslint-config": "0.0.1",
     "tslint-config-prettier": "^1.18.0",
+    "tslint-config-standard": "^8.0.1",
     "tslint-microsoft-contrib": "^6.2.0"
   },
   "devDependencies": {
