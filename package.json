@@ -1,8 +1,8 @@
 {
   "name": "@kyeotic/tslint-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Kyeotic's personal tslint config",
-  "main": "index.js",
+  "main": "index.json",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
